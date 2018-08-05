@@ -1,0 +1,6 @@
+*.o
+*.so
+sldr
+hello
+ctordtor
+call_shared
